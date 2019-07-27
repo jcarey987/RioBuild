@@ -10749,6 +10749,13 @@ header.masthead h1 {
   opacity: 1;
 }
 
+.about-ross {
+  text-align: left;
+}
+.about-andy {
+  text-align: right;
+}
+
 @media screen and (max-width: 991px) {
   .img-resume {
     max-width: 65%;
@@ -10758,5 +10765,8 @@ header.masthead h1 {
   }
   .andy-p {
     order: 4;
+  }
+  .about-ross, .about-andy {
+    text-align: center;
   }
 }
