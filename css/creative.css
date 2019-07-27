@@ -10749,4 +10749,14 @@ header.masthead h1 {
   opacity: 1;
 }
 
-
+@media screen and (max-width: 991px) {
+  .img-resume {
+    max-width: 65%;
+  }
+  .andy-img {
+    order: 3;
+  }
+  .andy-p {
+    order: 4;
+  }
+}
