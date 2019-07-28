@@ -2610,14 +2610,14 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #28306D;
-  border-color: #28306D;
+  background-color: black;
+  border-color: black;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #242b62;
-  border-color: #202657;
+  background-color: rgb(247,150,70);
+  border-color: rgb(247,150,70);
 }
 
 .btn-primary:focus, .btn-primary.focus {
