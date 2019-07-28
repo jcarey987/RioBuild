@@ -10766,6 +10766,10 @@ header.masthead h1 {
   text-align: right;
 }
 
+.logo {
+  padding-bottom: 10px;
+}
+
 @media screen and (max-width: 991px) {
   .img-resume {
     max-width: 65%;
