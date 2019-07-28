@@ -161,7 +161,7 @@ sup {
 }
 
 a {
-  color: #28306D;
+  color: rgb(247,150,70);
   text-decoration: none;
   background-color: transparent;
 }
@@ -6909,7 +6909,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #7eb442 !important;
+  background-color: black !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -10366,7 +10366,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #28306D !important;
+  color: rgb(247,150,70) !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10567,7 +10567,7 @@ html {
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
-  border-color: #7eb442;
+  border-color: rgb(247,150,70);
 }
 
 hr.light {
@@ -10728,7 +10728,7 @@ header.masthead h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(40, 48, 109, 0.9);
+  background: rgba(247,150,70,0.9);
   -webkit-transition: opacity 0.25s ease;
   transition: opacity 0.25s ease;
   text-align: center;
