@@ -10743,16 +10743,28 @@ header.masthead h1 {
   text-align: center;
 }
 
-#portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-category {
+#portfolio .container-fluid .portfolio-box .portfolio-box-caption {
   font-family: 'Roboto', sans-serif;
   /*font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";*/
   font-size: 0.85rem;
   font-weight: 700;
+  /*text-transform: uppercase;*/
+}
+
+.project-category {
+  font-family: 'Roboto', sans-serif;
+  /*font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";*/
+  font-size: 1.1rem;
+  font-weight: 700;
   text-transform: uppercase;
 }
 
-#portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-name {
+#portfolio .container-fluid .portfolio-box .portfolio-box-caption {
   font-size: 1.2rem;
+}
+
+.project-name {
+  font-size: 1.0rem;
 }
 
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption {
