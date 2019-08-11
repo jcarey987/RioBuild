@@ -10682,6 +10682,17 @@ header.masthead {
   background-size: cover;
 }
 
+header.pearl-masthead {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 72px);
+  background: url("../img/portfolio/pearl/1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+  height: 100%;
+}
+
 header.masthead h1 {
   font-size: 2.25rem;
 }
