@@ -10682,15 +10682,12 @@ header.masthead {
   background-size: cover;
 }
 
-header.pearl-masthead {
-  padding-top: 10rem;
-  padding-bottom: calc(10rem - 72px);
-  background: url("../img/portfolio/pearl/1.jpg");
+.pearl-masthead {
+  background: url("../img/portfolio/pearl/2.jpg");
+  height: 100%;
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: scroll;
   background-size: cover;
-  height: 100%;
 }
 
 header.masthead h1 {
@@ -10791,6 +10788,26 @@ header.masthead h1 {
 
 .logo {
   padding-bottom: 10px;
+}
+
+dl {
+  width: 100%;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+}
+dt {
+  float: left;
+  width: 50%;
+  padding: 0;
+  margin: 0;
+  text-align: right;
+}
+dd {
+  float: left;
+  width: 50%;
+  padding: 0;
+  margin: 0;
 }
 
 @media screen and (max-width: 991px) {
