@@ -10683,7 +10683,15 @@ header.masthead {
 }
 
 .pearl-masthead {
-  background: url("../img/portfolio/pearl/2.jpg");
+  background: url("../img/portfolio/mh/2.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hilton-masthead {
+  background: url("../img/portfolio/mh/1.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
